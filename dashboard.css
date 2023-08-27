@@ -1,0 +1,46 @@
+
+    
+    button#LOGOUTbutton{
+        text-align: right;
+        margin-top:   10px; }
+        .header{
+    background-color: purple;
+   
+    color: white;
+    font-size: x-large;right: 30px;
+        font-size:large; 
+        
+     }
+     h1{
+        font-size: xx-large; 
+        text-align: center;
+     } 
+     .div1{
+         width: Fill (760px);
+         height:  (38px);
+          padding: 9px 16px 9px 16px;
+        border-radius: 6px;
+         border: 5px;
+        gap: 8px;  
+        text-align: center;    
+     }
+     .div2{ 
+        width: Fill (760px);
+        height: Fixed (114px);
+        padding: 16px;
+        border-radius: 6px;
+        border: 2px;
+        gap: 8px ;
+        text-align: center;
+
+     }
+     div{ 
+        text-align: center; 
+        margin-top: px;
+
+     } 
+     button{
+        background-color:purple ; 
+        color:white;
+         text-align: center;
+     }
